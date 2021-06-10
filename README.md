@@ -6,7 +6,7 @@
 
 ##
 
-### ✨ [Demo]()
+### ✨ [Demo](https://cenacrharsh.github.io/JS-30-DAY-10/)
 ##
 
 ![ss.png](./ss.png)
